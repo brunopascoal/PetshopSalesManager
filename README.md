@@ -8,6 +8,9 @@
 
 # Imagens
 
+![login](https://user-images.githubusercontent.com/49947689/235822991-c530e034-8f8c-4873-a201-96dfb2fc8e2d.png)
+![page](https://user-images.githubusercontent.com/49947689/235823020-f2468ada-daaa-4bba-95cf-c26aecb7deaa.png)
+
 > Este é um sistema de gerenciamento de vendas para um petshop, que inclui uma interface de login e um CRUD (Create, Read, Update, Delete) para gerenciar vendas. A aplicação utiliza Docker para executar um servidor MySQL e possui duas tabelas no banco de dados: login e vendas_produtos.
 
 ### Ajustes e melhorias
